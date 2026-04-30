@@ -6,20 +6,52 @@
 
 ## 🎯 Professional Summary
 
-Dedicated **SOC Analyst Level 1** with expertise in **threat detection**, **incident response**, and **network security monitoring**. Proficient in **SIEM platforms**, **cybersecurity operations**, and **security incident management**. Seeking to leverage certifications in **ethical hacking**, **network defense**, and **cybersecurity architecture** to protect organizational assets and minimize security risks.
+Motivated **Security Operations Centre (SOC) Analyst Level 1** candidate with hands-on expertise in **security monitoring**, **alert analysis**, **incident escalation**, and **threat detection**. Proficient in **SIEM platforms**, **incident management processes**, and **SLA-driven response procedures**. Ready to serve as **first-line of defense** in enterprise-scale SOC operations, monitoring live systems, analyzing security events, and contributing to early detection and response of cyber security incidents.
 
 **Key Competencies:**
-- Security Operations Center (SOC) Monitoring & Analysis
-- Threat Detection & Incident Response
-- SIEM Tools & Security Event Management
-- Network Security & Cybersecurity Defense
-- Vulnerability Assessment & Compliance
-- Network Troubleshooting & Device Configuration
+- Security Operations Center (SOC) Monitoring & Live System Detection
+- Security Alert Triage & Validation (Real vs. False Positives)
+- Incident Escalation & SLA-Based Response Management
+- SIEM Platforms & Security Event Monitoring
+- Threat Detection & Pattern Analysis
+- SOC Playbook & Process Adherence
+- Incident Documentation & Post-Incident Validation
+- Threat Intelligence Research & Emerging Risk Identification
+- Enterprise-Scale Security Operations
 - Security Incident Handling & Log Analysis
 
 ---
 
-## 📋 Professional Certifications
+## 🎯 Job-Specific Alignment
+
+**Tailored for:** Security Operations Centre Analyst – Level 1 | Security Services_9C | Tshwane, Gauteng
+
+### What You'll Do - Ready To:
+- ✅ **Monitor security systems and tools** to detect potential cyber security incidents
+- ✅ **Analyse and validate security alerts** - distinguishing real threats from false positives
+- ✅ **Escalate confirmed incidents** in line with SOC playbooks and SLA requirements
+- ✅ **Communicate incident details** clearly to security response teams
+- ✅ **Assist senior analysts** during incident containment, eradication, and recovery
+- ✅ **Track and document incidents** accurately for reliable security records
+- ✅ **Support threat intelligence research** to identify emerging risks
+- ✅ **Monitor systems post-incident** to confirm successful resolution
+- ✅ **Identify and escalate risks** impacting SOC service quality
+
+### What You're Looking For - I Have:
+- ✅ **1-2 years equivalent training** in Security Operations & Cyber Security (19+ certifications)
+- ✅ **Foundational knowledge** of information security principles, controls, best practices
+- ✅ **Familiarity with SOC tools:**
+  - SIEM platforms (trained & certified)
+  - IDS/IPS (Network Defense certification)
+  - Firewalls & web application firewalls (Network Security expertise)
+  - Endpoint & monitoring solutions (Endpoint Security certification)
+- ✅ **SLA understanding** - trained in incident management & escalation processes
+- ✅ **Attention to detail** - proven through 19 completed certifications
+- ✅ **Communication skills** - clear documentation and incident reporting
+- ✅ **Problem-solving mindset** - methodical approach to security challenges
+- ✅ **Team collaboration** - willing to learn and grow in cyber security
+
+---
 
 ### Cybersecurity & Threat Management
 - **Cisco Ethical Hacker (CEH)** - Advanced penetration testing & vulnerability assessment

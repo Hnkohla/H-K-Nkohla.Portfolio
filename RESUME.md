@@ -7,56 +7,58 @@ Email: nkohlakhanyo@gmail.com | GitHub: [Hnkohla](https://github.com/Hnkohla) | 
 
 ## PROFESSIONAL SUMMARY
 
-Dedicated and results-driven **Security Operations Center (SOC) Analyst** with comprehensive training across threat detection, incident response, and network security. Certified in ethical hacking, cybersecurity analysis, network defense, and cloud security. Proven expertise in monitoring security events, identifying threats, and supporting incident response operations. Seeking to join a high-performing SOC team to detect, analyze, and respond to security threats in real-time.
+Motivated **Security Operations Centre (SOC) Analyst** with comprehensive hands-on training in monitoring live security systems, analyzing security events, and detecting cyber security incidents. Certified in threat detection, incident management, and network defense. Ready to serve as **first-line of defense** in enterprise-scale SOC operations, working closely with security tools, playbooks, and response teams to detect, analyze, and escalate security threats while maintaining SLA compliance. Eager to contribute to SOC effectiveness through meticulous alert triage, accurate incident documentation, and continuous process improvement.
 
-**Key Qualifications:**
-- **SOC Operations:** Alert triage, threat analysis, incident classification
-- **Threat Detection:** Intrusion detection, malware analysis, anomaly detection
-- **Incident Response:** Security incident investigation, log analysis, root cause analysis
-- **SIEM Expertise:** Security event monitoring and log management
-- **Network Security:** Network traffic analysis, packet analysis, firewall monitoring
-- **Compliance:** NIST, CIS, ISO 27001 standards compliance
-- **Cloud Security:** Azure and Oracle cloud threat detection
+**Core SOC Capabilities:**
+- **Security Operations Monitoring:** Real-time system and tool monitoring for incident detection
+- **Alert Triage & Validation:** Distinguishing real threats from false positives with precision
+- **Incident Escalation:** SLA-driven escalation in line with SOC playbooks and processes
+- **Incident Management:** Investigation, documentation, and post-incident validation
+- **Threat Intelligence Support:** Identifying emerging risks and attack patterns
+- **SIEM Platform Expertise:** Security event analysis and log management
+- **Enterprise-Scale Operations:** Multi-system monitoring and response coordination
+- **Team Collaboration:** Communication with response teams and stakeholders
+- **Process Adherence:** Following defined playbooks and procedures
 
 ---
 
 ## CORE COMPETENCIES
 
-### Threat Management & Detection
-- Threat Detection & Analysis
-- Intrusion Detection Systems (IDS)
-- Malware Identification
-- Security Alert Triage
-- Anomaly Detection
-- Threat Hunting
-- Vulnerability Scanning
-
-### Incident Response & Investigation
-- Security Incident Response
-- Incident Triage & Classification
-- Root Cause Analysis
-- Forensic Investigation
-- Incident Documentation
+### SOC Monitoring & Alert Management
+- Security System Monitoring
+- Alert Triage & Validation
+- Real vs. False Positive Identification
 - Security Event Analysis
-- Post-Incident Review
+- Incident Detection & Identification
+- Alert Severity Classification
+- Alert Escalation Decision-Making
 
-### SIEM & Security Tools
-- SIEM Platform Monitoring
-- Log Analysis & Management
+### Incident Management & Response
+- Incident Triage & Classification
+- SLA-Based Response Management
+- Incident Escalation Procedures
+- Incident Documentation & Recording
+- Post-Incident Monitoring
+- Incident Communication & Reporting
+- Support for Incident Containment/Eradication
+
+### SIEM & SOC Tools
+- SIEM Platform Monitoring & Analysis
+- Log Analysis & Review
 - Security Event Correlation
-- Alert Configuration
-- Threat Intelligence Integration
-- Dashboard Development
-- Security Tool Integration
+- Alert Configuration & Tuning
+- Dashboard Monitoring
+- Threat Intelligence Research
+- Emerging Risk Identification
 
-### Network Security
-- Network Traffic Analysis
-- Packet Analysis
-- Firewall Management
-- Network Monitoring
-- Intrusion Prevention Systems (IPS)
-- VPN & Secure Communication
-- Network Segmentation
+### SOC Processes & Procedures
+- SOC Playbook Adherence
+- SLA Compliance & Management
+- Process Documentation
+- Escalation Procedures
+- Incident Response Workflows
+- Post-Incident Review
+- Continuous Process Improvement
 
 ### Cloud & Infrastructure Security
 - Microsoft Azure Security
@@ -188,26 +190,29 @@ Dedicated and results-driven **Security Operations Center (SOC) Analyst** with c
 
 ## PROFESSIONAL OBJECTIVES
 
-### Immediate Goals (0-6 Months)
-- Secure position as **SOC Analyst Level 1**
-- Join a dynamic SOC team monitoring 24/7 security operations
-- Apply certifications to real-world security monitoring
-- Gain hands-on SIEM platform experience
-- Build incident response expertise
+### Immediate Goals (First 90 Days)
+- **Secure position** as Security Operations Centre Analyst – Level 1
+- **Master the SOC environment** - tools, playbooks, and escalation procedures
+- **Achieve proficiency** in alert triage and false positive identification
+- **Develop strong relationships** with response teams and stakeholders
+- **Demonstrate responsibility and precision** in incident handling
+- **Establish track record** of accurate documentation and SLA compliance
 
 ### Medium-term Goals (6-12 Months)
-- Contribute to threat detection improvements
-- Support senior analysts in investigation
-- Develop deep expertise in organizational security infrastructure
-- Master ticketing and escalation procedures
-- Build vulnerability assessment skills
+- **Become trusted first-line responder** in SOC operations
+- **Contribute to process improvements** for SOC effectiveness
+- **Support threat intelligence research** initiatives
+- **Develop expertise in incident escalation** and response procedures
+- **Demonstrate collaborative mindset** with team members
+- **Build in-demand SOC skills** using modern tools and frameworks
 
 ### Long-term Goals (1-2 Years)
-- Advance to **SOC Analyst Level 2**
-- Lead incident response efforts
-- Specialize in threat hunting and analysis
-- Achieve CISSP or CCSP certification
-- Mentor junior SOC team members
+- **Advance to SOC Analyst Level 2** with expanded responsibilities
+- **Lead threat intelligence research** projects
+- **Mentor junior SOC team members**
+- **Specialize in incident response** and containment procedures
+- **Pursue advanced certification** (CISSP, GIAC certifications)
+- **Contribute to organizational security culture** emphasizing learning and precision
 
 ---
 
@@ -246,6 +251,6 @@ Dedicated and results-driven **Security Operations Center (SOC) Analyst** with c
 
 ## ATS KEYWORDS FOR APPLICANT TRACKING SYSTEMS
 
-SOC Analyst, Security Operations Center, Threat Detection, Incident Response, SIEM, Network Security, Cybersecurity, Threat Analysis, Incident Investigation, Alert Triage, Log Analysis, Intrusion Detection, Network Monitoring, Firewall Management, Endpoint Security, Vulnerability Assessment, Compliance, Risk Management, Threat Hunting, Malware Analysis, Root Cause Analysis, Network Traffic Analysis, Cloud Security, Azure, Cisco, Microsoft, CompTIA, Certified Ethical Hacker, Network Defense, Security Events, Threat Intelligence, Security Tools, Infrastructure Security, Incident Management, Security Monitoring, Network Defense, Compliance Frameworks, NIST, CIS, ISO 27001, HIPAA, PCI-DSS, GDPR, Python, PowerShell, SQL, Splunk, QRadar, Palo Alto, Fortinet, Endpoint Detection, Incident Response Procedures, Ticket Management, ITSM, Dashboard Development, Alert Configuration, Security Analysis, Vulnerability Scanning, Network Segmentation, IAM, Data Protection, Security Audit, Threat Mitigation, Real-time Monitoring, 24/7 SOC Operations, First-line Incident Response, Security Event Correlation, Security Tool Integration.
+Security Operations Centre, SOC Analyst, Alert Triage, Threat Detection, Security Monitoring, Incident Response, SIEM, Network Security, Cybersecurity, Alert Validation, False Positive Analysis, Incident Escalation, SLA Management, SOC Playbooks, Incident Investigation, Incident Documentation, Log Analysis, Intrusion Detection, Firewall Management, Endpoint Security, Vulnerability Assessment, Threat Intelligence, Risk Management, Compliance, Threat Hunting, Malware Analysis, Root Cause Analysis, Network Traffic Analysis, Cloud Security, Azure, Cisco, Microsoft, CompTIA, Certified Ethical Hacker, Network Defense, Security Events, Threat Intelligence, Security Tools, Infrastructure Security, Incident Management, Security Monitoring, Network Defense, Compliance Frameworks, NIST, CIS, ISO 27001, HIPAA, PCI-DSS, GDPR, Python, PowerShell, SQL, Splunk, QRadar, Palo Alto, Fortinet, Endpoint Detection, Incident Response Procedures, Ticket Management, ITSM, Dashboard Development, Alert Configuration, Security Analysis, Vulnerability Scanning, Network Segmentation, IAM, Data Protection, Security Audit, Threat Mitigation, Real-time Monitoring, 24/7 SOC Operations, First-line Defense, Alert Management, Incident Triage, SLA Compliance, Enterprise-Scale Operations, Threat Research, Post-Incident Monitoring, Security Event Correlation, Process Improvement, Team Collaboration, Learning Mindset, Communication Skills, Methodical Problem-Solving, Attention to Detail, Information Security Principles, Controls and Best Practices, Escalation Procedures, Response Teams, Stakeholder Communication.
 
 ---
